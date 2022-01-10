@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Crud_ST
+build_property.RootNamespace = Crud_ST
+build_property.ProjectDir = C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Crud\Crud-ST\Crud-ST\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Crud\Crud-ST\Crud-ST
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Inscritos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpdG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Inscritos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpdG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Inscritos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpdG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Inscritos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpdG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Inscritos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpdG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Instrutores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1dG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Instrutores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1dG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Instrutores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1dG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Instrutores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1dG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Instrutores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1dG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Lives/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Lives/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Lives/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Lives/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Lives/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zubgi/OneDrive/Desktop/GITHUB/Crud/Crud-ST/Crud-ST/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-w6dokwh3te
