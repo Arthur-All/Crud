@@ -2,7 +2,7 @@
 
 >Status: Develping
 
-### Criação de um Crud Basico. 
+### Criação de um Crud Basico em C#. 
 
 ### Objetivo futuro: Implementar um gerador de Boleto Bs. 
 
